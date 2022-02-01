@@ -1,2 +1,2 @@
 # ATLab
-This for the AT Lab G2
+This for the AT Lab G3 & G4
